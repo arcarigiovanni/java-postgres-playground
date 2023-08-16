@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "AppBd",
+            "request": "launch",
+            "mainClass": "com.example.AppBd",
+            "projectName": "demo"
+        },
+        {}
+    ]
+}
